@@ -1,1 +1,1 @@
-from config.path import DATA_RAW_PATH, BASE_DIR
+from config.path import DATA_RAW_PATH, BASE_DIR, DATA_PROCESSED_PATH
